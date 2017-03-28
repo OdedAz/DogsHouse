@@ -1,0 +1,12 @@
+c:\users\oded\documents\visual studio 2013\Projects\DogsHouse\DogsHouse\bin\DogsHouse.dll.config
+c:\users\oded\documents\visual studio 2013\Projects\DogsHouse\DogsHouse\bin\DogsHouse.dll
+c:\users\oded\documents\visual studio 2013\Projects\DogsHouse\DogsHouse\bin\DogsHouse.pdb
+c:\users\oded\documents\visual studio 2013\Projects\DogsHouse\DogsHouse\obj\Debug\DogsHouse.csprojResolveAssemblyReference.cache
+c:\users\oded\documents\visual studio 2013\Projects\DogsHouse\DogsHouse\obj\Debug\DogsHouse.dll
+c:\users\oded\documents\visual studio 2013\Projects\DogsHouse\DogsHouse\obj\Debug\DogsHouse.pdb
+D:\Visual Studio 2013\Projects\DogsHouse\DogsHouse\bin\DogsHouse.dll.config
+D:\Visual Studio 2013\Projects\DogsHouse\DogsHouse\bin\DogsHouse.dll
+D:\Visual Studio 2013\Projects\DogsHouse\DogsHouse\bin\DogsHouse.pdb
+D:\Visual Studio 2013\Projects\DogsHouse\DogsHouse\obj\Debug\DogsHouse.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\DogsHouse\DogsHouse\obj\Debug\DogsHouse.dll
+D:\Visual Studio 2013\Projects\DogsHouse\DogsHouse\obj\Debug\DogsHouse.pdb

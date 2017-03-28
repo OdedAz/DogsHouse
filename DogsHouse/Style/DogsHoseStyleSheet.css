@@ -1,0 +1,148 @@
+﻿.jumbotron {
+    background-image: url('../images/תמונה לאתר.png');
+    color: white;
+    background-attachment: local;
+    min-height: 800px;
+}
+
+.ButtonHome{
+    border-radius:50%;
+    background-color:red;
+    width:40px;
+    height:80px;
+}
+.btn{
+    border-radius:50px;
+    background-color:black;
+    width:10px;
+    height:40px;
+}
+.bg-image {
+    background-repeat: no-repeat;
+    background: 50% 100px no-repeat fixed;
+    /*position: absolute;*/
+    min-height: 640px;
+    min-width: 340px;
+    background-image: url('../images/תמונה לאתר.png');
+    width: 100%;
+    height: 100%;
+    /* default background-position */
+    background-position: center center;
+    /* lt ie 8 */
+    background-position-x: center;
+    background-position-y: center;
+    /* scale proportionately */
+    /*background-image:;*/
+    /* IE8 workaround - http://louisremi.github.io/background-size-polyfill/ */
+    behavior: url(/backgroundsize.min.htc);
+}
+.st1{
+    background-color:red
+}
+.EmptyLine{
+    height:100px;
+}
+.btn1{
+    background-color:purple;
+    width:40px;
+    height:40px;
+    position:absolute;
+    left:15%;
+    top:10%;
+    bottom:90%;
+}
+.btn2 {
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+    bottom:75%;
+}
+.btn3{
+    background-color:green;
+    width:40px;
+    height:40px;
+    position:absolute;
+    left:10%;
+    top:40%;
+    bottom:60%;
+}
+.btn4{
+    background-color:yellow;
+    width:40px;
+    height:40px;
+    position:absolute;
+    left:15%;
+    top:55%;
+    bottom:45%;
+}
+.btn5{
+    background-color:purple;
+    width:40px;
+    height:40px;
+    position:absolute;
+    right:15%;
+    top:10%;
+    bottom:90%;
+}
+.relatives
+{
+    position:
+
+}
+.btn6 {
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 10%;
+    top: 25%;
+    bottom:75%;
+}
+.btn7{
+    background-color:green;
+    width:40px;
+    height:40px;
+    position:absolute;
+    right:10%;
+    top:40%;
+    bottom:60%;
+}
+.btn8{
+    background-color:yellow;
+    width:40px;
+    height:40px;
+    position:absolute;
+    right:15%;
+    top:55%;
+    bottom:45%;
+}
+.a{
+    
+    background-color:ActiveCaption;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+    color:black;
+    font-weight:bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+#NewDog{
+    margin-left:2%;
+    display:inline-block;
+    position:relative;
+
+}
+#filedHeader
+{
+    display:inline-block;
+    background-color:lightblue;
+    margin-bottom:3px;
+}

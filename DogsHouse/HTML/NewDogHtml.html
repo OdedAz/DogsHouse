@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="../Style/DogsHoseStyleSheet.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8"/>
+    <title>Register A New Dog</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    
+    
+</head>
+<body>
+    <script src="../JAVA/newDog.js"></script>
+    <div class='bg-image'>
+        <form action="demo.html">
+            <div >
+                <p class="a">Add a new dog to the data base:</p>
+                <br /> 
+                <div>
+                    <p id="filedHeader">Name:</p><br />
+                    <input id="dogName" class="relatives" type="text" name="Name" style="width:172px;"/>
+                </div>
+                <div>
+                    <p id="filedHeader">Date of Birth:</p><br />
+                    <input id="BirthDay" type="date" name="DateOfBirth" style="width:172px"/><br />
+                </div>
+                <div>
+                    <p id="filedHeader">Sex:</p><br />
+                    <select id="gender" style="width:172px">
+                      <option value="male">Male</option>
+                      <option value="female">Female</option>
+                    </select>
+                </div>
+                <div>
+                    <p id="filedHeader">Mother:</p><br />
+                    <input id="Mother" type="text" name="Mother" style="width:172px"/><br />
+                </div>
+                <div>
+                    <p id="filedHeader">Father:</p><br />
+                    <input id="Father" type="text" name="Father" style="width:172px"/><br />
+                </div>
+                <div>
+                    <p id="filedHeader">Species:</p><br />
+                     <select id="species" style="width:172px">
+                        <option value="pomeranian">pomeranian</option>
+                        <option value="pekingese">pekingese</option>
+                        <option value="yorkshire">yorkshire</option>
+                        <option value="shih tzu">shih tzu</option>
+                    </select>
+                </div>
+                <input id="btnNewDogAdd" type="button" name="btnAdd" value="Add" onclick="gender()" />
+                <input id="btnNewDogCancel" type="button" name="btnCancel" value="CANCEL" onclick="location.href='mainPage.html'" />
+            </div>
+        </form>
+        </div>
+    <script src="../JAVA/jquery.min.js" type="text/javascript"></script>
+    <script src="../JAVA/Dogs.js" type="text/javascript"></script>
+</body>
+</html>
